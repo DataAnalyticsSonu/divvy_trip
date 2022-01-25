@@ -1,2 +1,62 @@
 # divvy_trip
-Bike-Share Navigate Speedy Success
+------------
+
+# Bike-Share Navigate Speedy Success
+------------------------------------
+
+## Scenario
+===========
+
+> Being a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
+of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
+our team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
+our team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives
+must approve our recommendations, so they must be backed up with compelling data insights and professional data
+visualizations.
+
+
+## Ask_Phase
+============
+
+Three questions will guide the future marketing program:
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+
+### In this analysis we will focus on the first question only : How do annual members and casual riders use Cyclistic bikes
+differently?
+
+We will produce a report with the following deliverables:
+
+1. A clear statement of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of our analysis
+5. Supporting visualizations and key findings
+6. Our top three recommendations based on your analysis
+
+
+<ins>Case Study Roadmap - Ask</ins>
+
+Guiding questions
+-----------------
+
+* What is the problem you are trying to solve?
+> We like to understand if increasing the number of annual members is beneficial for the future of the company . So,we want to understand how casual riders and annual members use Cyclistic bikes differently .
+
+* How can your insights drive business decisions?
+>We will share the insights with the stakeholder with top recommendation which will help the team to design a new marketing strategy to convert casual riders into annual members.
+
+
+Key tasks
+---------
+
+1. Identify the business task
+2. Consider key stakeholders
+
+Deliverable
+-----------
+
+A clear statement of the business task
