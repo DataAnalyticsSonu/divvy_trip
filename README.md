@@ -81,3 +81,25 @@ But note that data-privacy issues prohibit us from using riders’ personally id
 4. Open Excel and create a column called “ride_length.” Calculate the length of each ride by subtracting the column “started_at” from the column “ended_at” (for example, =D2-C2) and format as HH:MM:SS using Format > Cells >Time > 37:30:55.
 5. Create a column called “day_of_week,” and calculate the day of the week that each ride started using the “WEEKDAY”command (for example, =WEEKDAY(C2,1)) in each file. Format as General or as a number with no decimals, noting that 1 = Sunday and 7 = Saturday.
 6. Save the Processed data as data_processed.
+
+## Analyze
+==========
+1. Open the data_preprocessed.csv from the previous Process Stage.
+2. Make a copy of file and name it as data_analyze.csv
+3. Where relevant, making columns consistent .
+4. Clean and transform the data to prepare for analysis.
+5. Conduct descriptive analysis.
+6. Run a few calculations to get a better sense of the data layout. 
+Options:
+	* Calculate the mean of ride_length
+	* Calculate the max ride_length
+	* Calculate the mode of day_of_week
+7. Create a pivot table to quickly calculate and visualize the data. 
+Options:
+	* Calculate the average ride_length for members and casual riders. 
+	Try rows = member_casual; Values = Average of ride_length.
+	* Calculate the average ride_length for users by day_of_week. 
+	Try columns = day_of_week; Rows = member_casual; Values = Average of ride_length.
+	* Calculate the number of rides for users by day_of_week by adding Count of trip_id to Values.
+
+8. Save the file as data_analyized.csv .
