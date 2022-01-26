@@ -103,3 +103,9 @@ Options:
 	* Calculate the number of rides for users by day_of_week by adding Count of trip_id to Values.
 
 8. Save the file as data_analyized.csv .
+
+## Share
+==========
+
+1. Creat appropriate visuals of our findings from the Analyze phase.
+2. Share our findings as a PPT to the stakeholders along with the recommendation to take necessary business action.
